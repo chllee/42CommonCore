@@ -1,5 +1,5 @@
-<div style="height: 350px; display: flex; align-items: center; justify-content: center;">
-    <img src="./Assets/Libft_Banner.jpg" alt-text="Libft_Banner" />
+<div style="height: 350px; width: 100%; display: flex; align-items: center; justify-content: center;">
+    <img src="./Assets/Libft_Banner.jpg" alt-text="Libft_Banner" style="justify-self:center;" />
 </div>
 
 # Libft + Bonus (Structs & Linked Lists)
