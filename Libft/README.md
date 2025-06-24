@@ -1,4 +1,4 @@
-<div style="height: 350px; display: flex; align-items: center;">
+<div style="height: 350px; display: flex; align-items: center; justify-content: center;">
     <img src="./Assets/Libft_Banner.jpg" alt-text="Libft_Banner" />
 </div>
 
